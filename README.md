@@ -2,10 +2,19 @@
 
 Pyber Ride-Sharing Analysis using Pandas, Jupyter Notebook and Matplotlib 
 
+## Purpose
+
+* **Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotlib.**
+* **Add and modify features of Matplotlib charts.**
+* **Add error bars to line and bar charts.**
+* **Determine mean, median, and mode using Pandas, NumPy, and SciPy statistics.**
+
 ## Overview of the analysis: 
 
 PyBer, a python based ridesharing app company wants to perform an exploratory analysis and visualization on a large ride sharing data to establish a relationship between type of city and number of riders, drivers and fares and percentages of each city type in total fares, total rides, and total drivers. This will help PyBer improve the access to its ride-sharing services and determine affordability in different city types. 
 With the knowledge of Python script using Pandas library, Jupyter Notebook, and Matplotlib we will create variety of charts to showcase important findings. 
+
+Softwares Used: Anaconda, Conda, Jupyter-Notebook, ipykernal, Python, Pandas, Numpy, Matplotlib, GitBash 
 
 ## Results
 
